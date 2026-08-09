@@ -21,7 +21,7 @@
 - 🎨 Also into **UI/UX** — I like my code clean and my interfaces cuter
 - 🎓 BCA student at **Christ University, Central Campus** — Class of 2028
 - 🌱 Currently sharpening my full-stack + game dev skills
-- 📫 **Email: candes1718@gmail.com 
+- 📫 Email: candes1718@gmail.com 
 - 🔗 **LinkedIn:** [linkedin.com/in/karlinecandes](https://www.linkedin.com/in/karlinecandes)
 
 <br clear="right"/>
