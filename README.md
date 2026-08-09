@@ -21,7 +21,7 @@
 - 🎨 Also into **UI/UX** — I like my code clean and my interfaces cuter
 - 🎓 BCA student at **Christ University, Central Campus** — Class of 2028
 - 🌱 Currently sharpening my full-stack + game dev skills
-- 📫 **Email:** candes1718@gmail.com **
+- 📫 **Email: candes1718@gmail.com 
 - 🔗 **LinkedIn:** [linkedin.com/in/karlinecandes](https://www.linkedin.com/in/karlinecandes)
 
 <br clear="right"/>
@@ -61,6 +61,9 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlinecandes1718&theme=tokyonight&background=1a1a2e&ring=FFB6D9&fire=FFB6D9&currStreakLabel=FFB6D9&border=FFB6D9" alt="GitHub Streak" />
+<br>
+<br>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlinecandes1718&bg_color=1a1a2e&color=FFB6D9&line=FFB6D9&point=E8B4D9&area=true&area_color=2d1b3d&border_color=FFB6D9" alt="activity graph" />
 
 </div>
